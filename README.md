@@ -1,2 +1,3 @@
 # Training-Data-Preperation 
-Scripts to covert annotations from shapefiles
+The scripts convert annotations from shapefiles to COCO or TXT format for ITD model training. 
+
